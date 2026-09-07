@@ -1,56 +1,29 @@
-<div align="center">
+# Hi, I'm Abhishek Kumar Singh 👋 (Abhishek975828)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=4">
-  <img alt="Sarthak Sharma banner" src="./banner.svg?v=4" width="100%">
-</picture>
+Welcome to my GitHub profile! I’m an aspiring software developer who loves building web apps and tooling.
 
-<img src="./lanyard.svg?v=4" width="150" align="left" alt="Sarthak Sharma ID badge">
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br clear="left">
 
-[![GitHub followers](https://img.shields.io/github/followers/sarthakkaushik927?label=Follow&style=for-the-badge&color=ec4899&labelColor=1a0b2e)](https://github.com/sarthakkaushik927)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e)](https://linkedin.com/in/sarthak-sharma-323652318)
-[![Email](https://img.shields.io/badge/Email-say%20hi-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e)](mailto:sarthakkaushik927@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=sarthakkaushik927&style=for-the-badge&color=8b5cf6&labelColor=1a0b2e)
 
-<img src="./projects.svg?v=4" width="100%" alt="Sarthak Sharma projects">
+## 📈 GitHub Stats
+![](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek975828&theme=react-dark)
+![](https://github-readme-stats.vercel.app/api?username=Abhishek975828&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abhishek975828&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaltiwari021&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="./experience.svg?v=4" width="100%" alt="Experience and education">
 
-<img src="./now.svg?v=4" width="100%" alt="Currently">
 
-![React](https://img.shields.io/badge/-React-1a0b2e?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-1a0b2e?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-1a0b2e?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/-Expo-1a0b2e?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1a0b2e?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a0b2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/-Node.js-1a0b2e?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-1a0b2e?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1a0b2e?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a0b2e?style=flat-square&logo=postgresql&logoColor=4169E1)
-![AWS](https://img.shields.io/badge/-AWS-1a0b2e?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/-Docker-1a0b2e?style=flat-square&logo=docker&logoColor=2496ED)
-![Redis](https://img.shields.io/badge/-Redis-1a0b2e?style=flat-square&logo=redis&logoColor=DC382D)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-1a0b2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-<img src="./stats.svg?v=4" width="49%" alt="GitHub stats">
-<img src="./langs.svg?v=4" width="49%" alt="Most used languages">
+## 📫 How to reach me
+- Email:singhabhishek84390@gmail.com
+- LinkedIn: [Abhishek Kumar Singh](https://www.linkedin.com/in/your-linkedin/](www.linkedin.com/in/abhishek-kumar-singh-74489237b))
 
-<img src="./trophies.svg?v=4" width="100%" alt="GitHub trophies">
 
-### Contribution activity
+## ⚡ Fun fact
+- I love learning new libraries and automating boring tasks.
 
-![Sarthak's contribution graph](https://ghchart.rshah.org/ec4899/sarthakkaushik927)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthakkaushik927/sarthakkaushik927/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthakkaushik927/sarthakkaushik927/output/github-snake-light.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sarthakkaushik927/sarthakkaushik927/output/github-snake.svg">
-</picture>
-
-<sub>Built by Sarthak Sharma &bull; last redesigned 2026</sub>
-
-</div>
+<!--
+Tip: remove or edit placeholders above (email, social links, project names).
+-->
